@@ -580,7 +580,7 @@ export default class SortingVisualizer extends React.Component {
                 {/* sidebar controls */}
                 <div className="sidebar">
                     <div className="title">
-                        <h2>Visual Sorter</h2>
+                        <h2>Sorting Visualization Animation</h2>
                     </div>
                     <button onClick={() => this.resetArray()}>Generate New Random Array</button>
                     <div className = "button-container">
