@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Visual-Sorter/static/css/main.448567fa.css",
+    "main.js": "/Visual-Sorter/static/js/main.0162253a.js",
+    "static/js/156.8e827148.chunk.js": "/Visual-Sorter/static/js/156.8e827148.chunk.js",
+    "index.html": "/Visual-Sorter/index.html",
+    "main.448567fa.css.map": "/Visual-Sorter/static/css/main.448567fa.css.map",
+    "main.0162253a.js.map": "/Visual-Sorter/static/js/main.0162253a.js.map",
+    "156.8e827148.chunk.js.map": "/Visual-Sorter/static/js/156.8e827148.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.448567fa.css",
+    "static/js/main.0162253a.js"
+  ]
+}
