@@ -11,6 +11,7 @@ Ranging from simple to complex, sorting algorithms can be hard to grasp, and as 
 - Bubble Sort (O(n²))
 
 
+
 You can view this project by clicking on this link: <a href="https://shindevarun.github.io/Visual-Sorter/>" target="_blank">https://shindevarun.github.io/Visual-Sorter/</a>
 
 
