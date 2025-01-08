@@ -14,4 +14,4 @@ Ranging from simple to complex, sorting algorithms can be hard to grasp, and as 
 You can view this project by clink on this link: <a href="https://shindevarun.github.io/Visual-Sorter/>" target="_blank">https://shindevarun.github.io/Visual-Sorter/</a>
 
 
-This project was also inspired by <a href="https://www.linkedin.com/in/clementmihailescu/" target="_blank">Clement Mihailescu</a>. 
+This project was inspired by <a href="https://www.linkedin.com/in/clementmihailescu/" target="_blank">Clement Mihailescu</a>. 
